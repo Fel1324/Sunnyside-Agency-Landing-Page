@@ -192,6 +192,10 @@
     }
 
     /* SECTION TESTIMONIALS */
+    .main__testimonials{
+        padding-block: 12rem;
+    }
+
     div.main__testimonials-content{
         width: min(110rem, 100%);
 
